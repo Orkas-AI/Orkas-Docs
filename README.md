@@ -139,6 +139,69 @@ Read the full [security overview](https://orkas.ai/security/?source=gh-orkas-doc
 - Closed Issues are outdated, replaced, or archived guides.
 - Every guide should explain a real outcome, the required inputs, the agent team, the workflow, and the deliverables—not just repeat a product claim.
 
+## Published guides
+
+These Open, locked Issues are the maintained English guides. Each one explains the practical fit, inputs, workflow, deliverables, limitations, and next step for its topic.
+
+### Agent guides
+
+| Agent | Published guide |
+| --- | --- |
+| Commander | [Read the Commander guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/3) |
+| ContentWriter | [Read the ContentWriter guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/5) |
+| DeepResearcher | [Read the DeepResearcher guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/1) |
+| ImageStudio | [Read the ImageStudio guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/7) |
+| OfficeWorker | [Read the OfficeWorker guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/9) |
+| PptMaker | [Read the PptMaker guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/11) |
+| ProductDeveloper | [Read the ProductDeveloper guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/13) |
+| SeoGeoAgent | [Read the SeoGeoAgent guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/15) |
+| UIDesigner | [Read the UIDesigner guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/17) |
+| VideoStudio | [Read the VideoStudio guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/19) |
+
+### Use-case guides
+
+| Workflow | Published guide |
+| --- | --- |
+| Weekly workspace automation | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/21) |
+| Build an app from a prompt | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/23) |
+| Private document Q&amp;A | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/25) |
+| Product launch content | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/27) |
+| CSV, Excel, and Sheets analysis | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/29) |
+| Product design, build, and verification | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/31) |
+| Image design and production | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/33) |
+| Video production and editing | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/35) |
+| Monthly business review | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/37) |
+| Evidence-based market research | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/39) |
+| SEO and GEO visibility | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/41) |
+| Editable UI design | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/43) |
+
+### Comparison guides
+
+| Compare Orkas with | Published guide |
+| --- | --- |
+| Activepieces | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/45) |
+| AnythingLLM | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/47) |
+| AutoGPT | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/49) |
+| Bolt.new | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/51) |
+| ChatGPT | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/53) |
+| Claude Code | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/55) |
+| Cline | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/57) |
+| Codex | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/59) |
+| CrewAI | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/61) |
+| DeepSeek Harness | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/63) |
+| Devin | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/65) |
+| Dify | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/67) |
+| Flowise | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/69) |
+| Goose | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/71) |
+| Hermes Agent | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/73) |
+| LangChain | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/75) |
+| LibreChat | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/77) |
+| Lovable | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/79) |
+| n8n | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/81) |
+| OpenClaw | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/83) |
+| OpenCode | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/85) |
+| Orca | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/87) |
+
 ## Frequently asked questions
 
 <details>

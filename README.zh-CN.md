@@ -139,6 +139,69 @@ Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMa
 - Closed Issue 代表已经过期、被替代或归档的指南。
 - 每篇指南都应说明真实目标、所需输入、Agent 团队、执行流程和交付物，而不是简单重复产品宣传。
 
+## 已发布指南
+
+以下 Open、已锁定的 Issue 是持续维护的中文指南。每篇内容都会独立说明适用情况、所需输入、工作流程、交付物、限制与下一步。
+
+### Agent 指南
+
+| Agent | 已发布指南 |
+| --- | --- |
+| Commander | [阅读 Commander 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/4) |
+| ContentWriter | [阅读 ContentWriter 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/6) |
+| DeepResearcher | [阅读 DeepResearcher 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/2) |
+| ImageStudio | [阅读 ImageStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/8) |
+| OfficeWorker | [阅读 OfficeWorker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/10) |
+| PptMaker | [阅读 PptMaker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/12) |
+| ProductDeveloper | [阅读 ProductDeveloper 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/14) |
+| SeoGeoAgent | [阅读 SeoGeoAgent 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/16) |
+| UIDesigner | [阅读 UIDesigner 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/18) |
+| VideoStudio | [阅读 VideoStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/20) |
+
+### 使用场景指南
+
+| 工作流 | 已发布指南 |
+| --- | --- |
+| 每周工作区自动化 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/22) |
+| 用自然语言构建应用 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/24) |
+| 私有文档问答 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/26) |
+| 产品发布内容 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/28) |
+| CSV、Excel 与表格分析 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/30) |
+| 产品设计、开发与验收 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/32) |
+| 图片设计与制作 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/34) |
+| 视频制作与剪辑 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/36) |
+| 月度业务复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/38) |
+| 基于证据的市场研究 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/40) |
+| SEO 与 GEO 可见性 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/42) |
+| 可编辑 UI 设计 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/44) |
+
+### 对比指南
+
+| 与 Orkas 对比的产品 | 已发布指南 |
+| --- | --- |
+| Activepieces | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/46) |
+| AnythingLLM | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/48) |
+| AutoGPT | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/50) |
+| Bolt.new | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/52) |
+| ChatGPT | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/54) |
+| Claude Code | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/56) |
+| Cline | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/58) |
+| Codex | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/60) |
+| CrewAI | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/62) |
+| DeepSeek Harness | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/64) |
+| Devin | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/66) |
+| Dify | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/68) |
+| Flowise | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/70) |
+| Goose | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/72) |
+| Hermes Agent | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/74) |
+| LangChain | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/76) |
+| LibreChat | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/78) |
+| Lovable | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/80) |
+| n8n | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/82) |
+| OpenClaw | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
+| OpenCode | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
+| Orca | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
+
 ## 常见问题
 
 <details>
