@@ -12,6 +12,7 @@ This repository is Orkas's official GitHub content hub. Its public Issues are se
 - Create, review, publish, archive, and materially update both language versions together.
 - Apply one shared `topic:<slug>` label to both versions, plus exactly one language label: `lang:en` or `lang:zh-CN`.
 - Localize the Chinese version for natural Chinese search intent; do not produce a literal line-by-line translation.
+- Keep individual Issue numbers and URLs out of this file. Use `README.md` and `README.zh-CN.md` as the human catalogs; for maintenance, query GitHub by the exact `topic:<slug>`, language, and type labels, then update the paired Issues and both README entries together.
 
 ## Issue Types And State
 

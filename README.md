@@ -202,6 +202,24 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 | OpenCode | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/85) |
 | Orca | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/87) |
 
+### Blog guides
+
+| Article | Published guide |
+| --- | --- |
+| Context Compaction Cuts by Token Count, Not by What Is Safe to Forget | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/89) |
+| The Layer That Turns a Model Into a Product: Engineering Orkas's Agent Harness | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/91) |
+| Declared Done Is Not Verified Done: Milestone Design for Long-Horizon Agents | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/93) |
+| Multi-Agent Orchestration in Practice: How Orkas Runs a Lead Agent and Its Sub-Agents | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/95) |
+| Loop Detection Is Not Stall Detection: Catching Agents That Spin Without Repeating | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/97) |
+| How to Run Claude Code and Codex Together — One Chat to Orchestrate Both | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/99) |
+| Cloud Sync in Practice: How Orkas Syncs Data Across Devices | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/101) |
+| Rewriting the Agent's Foundation: A Ground-Up Refactor of Orkas | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/103) |
+| How to Get Cited by ChatGPT: What Actually Decides Whether You Get Quoted | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/105) |
+| Bigger Was Not the Point: How Kimi K3 Scales Information Flow in Three Directions | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/107) |
+| What Is Local-First AI? Your Data, Your Keys, Your Machine | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/109) |
+| BEACON: Milestone-Guided Long-Horizon Agents | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/111) |
+| An Agent That Gets Better on Its Own: Inside Orkas's Self-Evolution | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/113) |
+
 ## Frequently asked questions
 
 <details>

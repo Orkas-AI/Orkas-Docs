@@ -202,6 +202,24 @@ Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMa
 | OpenCode | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
 | Orca | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
 
+### 博客指南
+
+| 文章 | 已发布指南 |
+| --- | --- |
+| 上下文压缩是按 token 数切的，跟「什么该忘」没有关系 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/90) |
+| 把模型变成产品的那一层：Orkas 的 Agent Harness 工程实现 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/92) |
+| 声明完成不等于验证完成：长程 Agent 的里程碑设计 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/94) |
+| 多 Agent 编排实战：Orkas 如何调度一个主 Agent 和它的子 Agent | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/96) |
+| 循环检测不等于停滞检测：抓住那些不重复却在原地打转的 Agent | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/98) |
+| 如何让 Claude Code 和 Codex 一起用——一个对话同时指挥两个 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/100) |
+| 云端同步实战：Orkas 如何做好数据同步 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/102) |
+| 重写 Agent 的地基：Orkas 的一次底层重构 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/104) |
+| 如何被 ChatGPT 引用：到底是什么决定了你会不会被引到 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/106) |
+| 变大不是重点：Kimi K3 在三个方向上扩展信息流 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/108) |
+| 什么是本地优先 AI？你的数据、你的密钥、你的机器 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/110) |
+| BEACON：用里程碑引导的长程 Agent | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/112) |
+| 一个会自己变好用的 Agent：拆解 Orkas 的自演进机制 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/114) |
+
 ## 常见问题
 
 <details>
