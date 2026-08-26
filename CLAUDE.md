@@ -2,6 +2,10 @@
 
 This repository is Orkas's official GitHub content hub. Its public Issues are search-facing guides for agents, use cases, comparisons, and articles; the README files are the catalog.
 
+## Repository Ownership
+
+- Use the `Orkas-AI` GitHub account for every GitHub operation in this repository, including `gh` API/CLI writes, Issue and label management, settings changes, commits, and pushes. Before any remote write, verify that `Orkas-AI` is the active authenticated account and that the target repository is `Orkas-AI/Orkas-Docs`; never use a personal account or personal fork.
+
 ## Language And Pairing
 
 - Publish every topic as exactly two separate Issues: one English Issue and one Simplified Chinese Issue. Never combine both languages in one Issue.
