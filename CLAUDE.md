@@ -30,6 +30,8 @@ This repository is Orkas's official GitHub content hub. Its public Issues are se
 - Do not create thin keyword variants, doorway copy, or a duplicate of the corresponding orkas.ai landing page.
 - Do not link Issues to other Issues. The README catalog owns discovery; each Issue sends the reader directly to the matching orkas.ai page.
 - Add `source=gh-orkas-docs` to every orkas.ai content or download link. Chinese targets also use `lang=zh`.
+- Link to a matching detail page only after its live raw HTML has a nonempty title and primary heading plus the expected canonical URL; an HTTP 200 response, sitemap/index entry, or local source file alone is not proof that the page is deployed. Keep the Issue content aligned with a verified live page; when no matching live page exists, link to the localized Orkas homepage and do not describe that link as a full comparison or detail page.
+- End every Issue, immediately before the verification footer, with two distinct calls to action: one to its verified orkas.ai destination and one to `/download/`. Both links must carry the required language and `source=gh-orkas-docs` parameters.
 - End with `Official Orkas guide · Last verified: YYYY-MM-DD` or the localized Chinese equivalent.
 
 ## Product Accuracy
