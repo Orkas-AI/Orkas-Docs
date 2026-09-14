@@ -79,78 +79,78 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 
 ## 已发布指南
 
-以下 Open、已锁定的 Issue 是持续维护的中文指南。每篇内容都会独立说明适用情况、所需输入、工作流程、交付物、限制与下一步。
+以下 Open、已锁定的 Issue 是持续维护的中文指南。正文保留对应官网文章的内容与结构，随后单独提供任务示例、实践补充，以及必要的版本说明。
 
 ### Agent 指南
 
 | Agent | 已发布指南 |
 | --- | --- |
-| Commander | [阅读 Commander 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/4) |
-| ContentWriter | [阅读 ContentWriter 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/6) |
-| DeepResearcher | [阅读 DeepResearcher 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/2) |
-| ImageStudio | [阅读 ImageStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/8) |
-| OfficeWorker | [阅读 OfficeWorker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/10) |
-| PptMaker | [阅读 PptMaker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/12) |
-| ProductDeveloper | [阅读 ProductDeveloper 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/14) |
-| SeoGeoAgent | [阅读 SeoGeoAgent 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/16) |
-| UIDesigner | [阅读 UIDesigner 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/18) |
-| VideoStudio | [阅读 VideoStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/20) |
+| Commander — Orkas AI 团队指挥官 | [阅读 Commander 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/4) |
+| ContentWriter — 内容写作 Agent | [阅读 ContentWriter 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/6) |
+| DeepResearcher — 可复核的深度研究 Agent | [阅读 DeepResearcher 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/2) |
+| ImageStudio — AI 图片制作与编辑 Agent | [阅读 ImageStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/8) |
+| OfficeWorker — 办公文档处理 Agent | [阅读 OfficeWorker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/10) |
+| PptMaker — 可编辑 PPT 制作 Agent | [阅读 PptMaker 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/12) |
+| ProductDeveloper — 产品开发与代码实现 Agent | [阅读 ProductDeveloper 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/14) |
+| SeoGeoAgent — 先修哪几条 SEO 问题 | [阅读 SeoGeoAgent 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/16) |
+| UIDesigner — UI/UX 设计 Agent | [阅读 UIDesigner 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/18) |
+| VideoStudio — AI 视频制作与智能剪辑 Agent | [阅读 VideoStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/20) |
 
 ### 使用场景指南
 
 | 工作流 | 已发布指南 |
 | --- | --- |
-| 每周工作区自动化 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/22) |
-| 用自然语言构建应用 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/24) |
-| 私有文档问答 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/26) |
-| 产品发布内容 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/28) |
-| CSV、Excel 与表格分析 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/30) |
-| 产品设计、开发与验收 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/32) |
-| 图片设计与制作 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/34) |
-| 视频制作与剪辑 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/36) |
-| 月度业务复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/38) |
-| 基于证据的市场研究 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/40) |
-| SEO 与 GEO 可见性 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/42) |
-| 可编辑 UI 设计 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/44) |
-| 电商店铺周复盘：从订单、库存和退货数据形成行动清单 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/132) |
+| AI 周报生成 — 汇总 GitHub、Slack 与 Notion | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/22) |
+| 一句提示生成 AI 应用 — 在对话里构建交互式应用 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/24) |
+| 文档助手 — 每个答案都带出处引用 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/26) |
+| AI 内容创作 — 文章、图片与视频一次产出 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/28) |
+| 面向数据分析的 AI Agent — 分析 CSV、Excel 与表格 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/30) |
+| AI 做内部工具 — 设计、开发，并跑测试 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/32) |
+| AI 图片制作 — 设计、生成与精确修改视觉 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/34) |
+| AI 视频制作与剪辑 — 动效、字幕和配音 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/36) |
+| AI 报告生成 — Excel、Word 与 PDF | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/38) |
+| AI 市场调研 — 可核查的证据，不是一份概述 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/40) |
+| SEO 与 GEO 优化工作流 — 搜索和 AI 答案可见性 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/42) |
+| AI UI 设计 — 从 PRD 或截图生成可编辑 HTML | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/44) |
+| 电商店铺周复盘 AI Agent — 连上店铺，直接出本周动作 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/132) |
 
 ### 对比指南
 
 | 对比主题 | 已发布指南 |
 | --- | --- |
-| Activepieces 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/46) |
-| AnythingLLM 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/48) |
-| AutoGPT 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/50) |
-| Bolt.new 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/52) |
-| ChatGPT 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/54) |
-| Claude Code 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/56) |
-| Cline 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/58) |
-| Codex 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/60) |
-| CrewAI 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/62) |
-| DeepSeek Harness 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/64) |
-| Devin 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/66) |
-| Dify 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/68) |
-| Flowise 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/70) |
-| Goose 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/72) |
-| Hermes Agent 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/74) |
-| LangChain 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/76) |
-| LibreChat 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/78) |
-| Lovable 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/80) |
-| n8n 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/82) |
-| OpenClaw 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
-| OpenCode 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
-| Orca 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
-| HeyGen 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/116) |
-| OpenMontage 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/118) |
-| OpusClip 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/120) |
-| Remotion 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/122) |
-| 2026 本地优先 AI 工具怎么选：分开看存储、推理与外部访问 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/144) |
-| 2026 多 Agent 工具怎么选：桌面工作区、网关与开发框架 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/146) |
-| 2026 Claude Code 替代品怎么选：先明确要改变哪部分工作流 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/148) |
-| Claude Code、Codex、OpenCode 三方对比：用完整仓库任务做选择 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/150) |
-| Claude Code 与 Hermes Agent 怎么选：仓库任务、重复工作与接入方式 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/152) |
-| Codex 与 OpenCode 怎么选：供应商配置、仓库流程与实际权限 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/154) |
-| Hermes Agent 与 Codex 怎么选：任务目标、运行主机与恢复要求 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/156) |
+| Activepieces vs Orkas： 一个把应用连起来，一个做出这些应用最后要发出去的东西。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/46) |
+| AnythingLLM vs Orkas： 一个从你的文档里给出答案，一个拿这些文档做出东西。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/48) |
+| AutoGPT vs Orkas： 一个是为「自己一直跑下去」造的 agent，一个是会一直跟你确认的团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/50) |
+| Bolt.new vs Orkas： 一个是浏览器标签页里的应用生成器，一个是你电脑上的 agent 团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/52) |
+| Orkas vs ChatGPT： 你的机器，还是云端。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/54) |
+| Orkas vs Claude Code： 一支 agent 团队，还是一个终端。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/56) |
+| Orkas vs Cline： 一支多 agent 桌面团队，还是编辑器里的一个编码 agent。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/58) |
+| Codex vs Orkas： OpenAI 的编码 agent，和一支能替你把它跑起来的桌面团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/60) |
+| CrewAI vs Orkas： 一个是你拿来写代码的框架，一个是你直接对话的成品应用。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/62) |
+| Orkas vs DeepSeek Harness： 成品桌面 AI 团队，还是插件组合的 Agent 运行时。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/64) |
+| Devin vs Orkas： 托管的 AI 软件工程师，还是跑在你机器上的开源 agent 团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/66) |
+| Dify vs Orkas： 一个是把 AI 交付给别人的平台，一个是把你自己的活干完的桌面端。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/68) |
+| Flowise vs Orkas： 一个是你自己组装、自己托管的流程，一个是打开就已经能用的应用。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/70) |
+| Goose vs Orkas： 一个是你机器上的通用 agent，一个是你机器上一支分工的团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/72) |
+| Orkas vs Hermes Agent： 一支本地优先的桌面团队，还是一个常驻服务器的自治 agent。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/74) |
+| Orkas vs LangChain： 直接用应用，还是用框架来搭。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/76) |
+| LibreChat vs Orkas： 一个是全团队共用的聊天窗，一个是把做完的活交回给你的桌面端。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/78) |
+| Lovable vs Orkas： 一个负责把产品做出来，一个负责产品周围要干的一切。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/80) |
+| n8n vs Orkas： 搬数据的管道，还是把交付物做出来的 agent 团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/82) |
+| Orkas vs OpenClaw： 桌面 AI 团队，还是自托管个人助手。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
+| OpenCode vs Orkas： 一个是你终端里的编码 agent，一个是能替你把它跑起来的桌面团队。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
+| Orca vs Orkas： 名字很像，其实是两个东西——一个让编码 agent 赛跑，一个把整次发布交付出去。 | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
+| 开源的 HeyGen 替代方案： 做数字人视频，不用自己备显卡。 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/116) |
+| OpenMontage vs Orkas： 自己把产线装配起来，还是装一个现成的。 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/118) |
+| Opus Clip vs Orkas： 一个托管的切片工具，还是一个属于你的桌面工作室。 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/120) |
+| Remotion vs Orkas： 为每一帧写 React，还是描述你要的视频。 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/122) |
+| 2026 年最佳本地优先 AI Agent 工具： 到底什么留在了你的机器上 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/144) |
+| 2026 年最佳多 Agent AI 桌面应用： 一个主控 Agent，带一支专家团队 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/146) |
+| 2026 年 Claude Code 替代品： 八个选项，按你要替换什么来分组 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/148) |
+| Claude Code vs Codex vs OpenCode： 它们各自允许宿主向自己要什么 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/150) |
+| Claude Code vs Hermes Agent： 一个你在旁边把着，一个你扔那让它跑。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/152) |
+| Codex vs OpenCode： 一个是模型厂商自己的 agent，一个是你可以 fork 的。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/154) |
+| Hermes vs Codex： 这两个根本不是一类东西，这就是答案。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/156) |
 
 ### 博客指南
 
@@ -169,15 +169,15 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | 什么是本地优先 AI？你的数据、你的密钥、你的机器 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/110) |
 | BEACON：用里程碑引导的长程 Agent | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/112) |
 | 一个会自己变好用的 Agent：拆解 Orkas 的自演进机制 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/114) |
-| 客户月报怎么写：先核对数字，再形成结论和下月行动 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/124) |
-| 自由职业营销报价：先算可计费产能，再确定项目范围 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/126) |
-| 营销自己做、招人还是找代理：拆开产能、专业能力与责任 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/128) |
-| AI 视频预算怎么做：把尝试、修改和可用镜头都算进去 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/130) |
-| Amazon Seller MCP 怎么用：接入店铺数据，形成有依据的复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/134) |
-| eBay 怎么接入 Claude：正式环境凭证、RuName 与首次店铺复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/136) |
-| Etsy 怎么接入 Claude：应用权限、Shop ID 与首次数据核对 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/138) |
-| Shopify 怎么接入 Claude：区分开发工具、店铺数据与应用权限 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/140) |
-| WooCommerce 怎么接入 Claude：商店网址、REST 密钥与数据核对 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/142) |
+| 客户月报模板：该包含什么，以及怎么写 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/124) |
+| 自由职业营销人该收多少（附免费定价计算器） | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/126) |
+| 自建、找代理，还是自己干：这个决定到底怎么做 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/128) |
+| 为什么你的 AI 视频账单，大部分花在重试上 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/130) |
+| Amazon Seller MCP：它能给你什么，代价是什么 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/134) |
+| 把 eBay 接到 Claude：凭证、RuName，以及沙箱帮不了你的地方 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/136) |
+| 把 Etsy 接到 Claude：每条路各自能做什么、不能做什么 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/138) |
+| 把 Shopify 接到 Claude：什么能用，什么会坏 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/140) |
+| 把 WooCommerce 接到 Claude：唯一不用应用审批的那种店 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/142) |
 
 ## 常见问题
 
@@ -199,7 +199,7 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 
 **怎样比较工具？**
 
-用相同输入、目标和权限比较完整交付、修改与恢复过程。对比指南是适用性分析，不是性能排名；功能、模型和套餐以当前一手文档为准。
+先看官网原文注明的比较标准、证据、日期和适用范围，再用补充示例验证自己的任务。原文中的排名和测量结果有各自的条件；功能、模型和套餐以当前一手文档为准。
 
 ---
 
