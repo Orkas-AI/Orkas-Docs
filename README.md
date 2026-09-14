@@ -1,143 +1,81 @@
 <p align="center">
-  <a href="https://orkas.ai/?source=gh-orkas-docs">
-    <img src="https://orkas.ai/res/orkas.png" width="96" height="96" alt="Orkas logo">
-  </a>
+  <a href="https://orkas.ai/?source=gh-orkas-docs"><img src="https://orkas.ai/res/orkas.png" width="88" height="88" alt="Orkas logo"></a>
 </p>
 
 <h1 align="center">Orkas — Your AI Team</h1>
 
-<p align="center">
-  <strong>Research, documents, slides, videos, websites… build your business right here.</strong>
-</p>
+<p align="center"><strong>One goal across research, documents, design, video and development.</strong></p>
 
 <p align="center">
-  Direct a Commander and specialist AI agents through one desktop chat.<br>
-  Start with optional managed official models, or connect your own provider and local agents.
+  <a href="https://orkas.ai/download/?source=gh-orkas-docs">Download</a> ·
+  <a href="https://orkas.ai/docs/?source=gh-orkas-docs">User guide</a> ·
+  <a href="https://orkas.ai/views/marketplace/?source=gh-orkas-docs">Agents &amp; skills</a> ·
+  <a href="https://github.com/Orkas-AI/Orkas">Source code</a>
 </p>
 
-<p align="center">
-  <a href="https://orkas.ai/?source=gh-orkas-docs"><strong>Website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://orkas.ai/download/?source=gh-orkas-docs"><strong>Download</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Orkas-AI/Orkas"><strong>Source code</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://orkas.ai/views/marketplace/?source=gh-orkas-docs"><strong>Agents &amp; skills</strong></a>
-</p>
+<p align="center"><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 
-<p align="center">
-  <strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a>
-</p>
+<p align="center"><img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Examples of research, content and office deliverables in Orkas"></p>
 
-<p align="center">
-  <img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Orkas capability overview">
-</p>
+Orkas is an open-source, local-first desktop AI workspace for indie builders, one-person businesses and small teams. Describe your goal; Commander can handle the work, coordinate specialist agents and deliver reports, spreadsheets, presentations, code, images or videos for you to inspect and revise.
 
----
+**Orkas-Docs is the official guide catalog.** Issues here are published articles, not a support queue. Every topic has separate English and Simplified Chinese versions. Open, locked Issues are maintained guides; closed Issues are archived content.
 
-## One goal in. Finished work out.
+## Complete your first task
 
-Orkas is an open-source, local-first desktop AI client for indie builders, one-person businesses, and small teams. Describe the outcome you want; the Commander plans the work, handles general tasks, and coordinates specialist agents in parallel or in sequence.
+1. [Download and open Orkas](https://orkas.ai/download/?source=gh-orkas-docs), then choose an available managed official model or connect your own supported provider.
+2. Open a new task. Describe the outcome, audience and format, and add only the files or resources needed.
+3. Supply any required decisions, inspect the deliverables and request specific revisions. Use a Project when future tasks should share context.
 
-<div align="center">
+For example:
 
-**Your goal** → **Commander** → **Specialist agents** → **Editable deliverables**
+> Prepare a monthly business review from this sales workbook and these meeting notes. Reconcile the numbers first, then deliver a one-page decision summary and an editable workbook. Flag missing data and unresolved questions. Do not send anything to anyone.
 
-</div>
+See the [full user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for models, projects, automations, connectors, Library and result management.
 
-The result is not just another chat reply. Orkas can deliver reports, spreadsheets, slide decks, code, images, videos, websites, and reusable workflows directly into your workspace.
+## Find a guide by outcome
 
-## Real workflows, real deliverables
-
-<table>
-  <thead>
-    <tr>
-      <th width="25%">Outcome</th>
-      <th width="42%">What the team does</th>
-      <th width="33%">Typical deliverables</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://orkas.ai/use/researchers/?source=gh-orkas-docs"><strong>Choose the next market</strong></a></td>
-      <td>Research demand, competitors, risks, and contradictory evidence before making a recommendation.</td>
-      <td><code>decision-brief.docx</code><br><code>evidence.csv</code><br><code>review.pdf</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/content-writing/?source=gh-orkas-docs"><strong>Launch a product</strong></a></td>
-      <td>Turn one approved brief into a consistent article, campaign image, and reviewable video.</td>
-      <td><code>article.md</code><br><code>social.png</code><br><code>launch.mp4</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/office-documents/?source=gh-orkas-docs"><strong>Prepare a business review</strong></a></td>
-      <td>Reconcile the numbers, draft the decision narrative, and build an editable presentation.</td>
-      <td><code>report.docx</code><br><code>analysis.xlsx</code><br><code>review.pptx</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/automate-workspace/?source=gh-orkas-docs"><strong>Run weekly operations</strong></a></td>
-      <td>Collect tasks, messages, and meeting notes, then prepare the team update and owner follow-ups.</td>
-      <td><code>weekly-update.md</code><br><code>team-notes.md</code><br><code>follow-ups.csv</code></td>
-    </tr>
-  </tbody>
-</table>
-
-Explore more workflows for [document Q&amp;A](https://orkas.ai/use/chat-with-documents/?source=gh-orkas-docs), [data analysis](https://orkas.ai/use/data-analysis/?source=gh-orkas-docs), [app development](https://orkas.ai/use/build-apps/?source=gh-orkas-docs), [UI design](https://orkas.ai/use/ui-design/?source=gh-orkas-docs), [image production](https://orkas.ai/use/make-images/?source=gh-orkas-docs), [video production](https://orkas.ai/use/make-videos/?source=gh-orkas-docs), and [search and AI-answer visibility](https://orkas.ai/use/seo-geo/?source=gh-orkas-docs).
-
-## Meet the specialist agents
-
-The Commander selects and coordinates specialists for each stage of the work. You can also call an agent directly when you already know who should own the task.
-
-| Agent | Best for | Example output |
+| What you want to do | Start here | Typical deliverables |
 | --- | --- | --- |
-| [**Commander**](https://orkas.ai/agents/commander/?source=gh-orkas-docs) | Planning, delegation, verification, recurring work | Coordinated multi-agent delivery |
-| [**DeepResearcher**](https://orkas.ai/agents/deep-researcher/?source=gh-orkas-docs) | Evidence-grounded research with citations | Research report, evidence table |
-| [**ContentWriter**](https://orkas.ai/agents/content-writer/?source=gh-orkas-docs) | Articles, reports, newsletters, launch copy | Publish-ready content |
-| [**PptMaker**](https://orkas.ai/agents/ppt-maker/?source=gh-orkas-docs) | Attractive, editable presentations | Reviewable PPTX deck |
-| [**OfficeWorker**](https://orkas.ai/agents/office-worker/?source=gh-orkas-docs) | Word, Excel, PowerPoint, and PDF work | Checked office files |
-| [**ProductDeveloper**](https://orkas.ai/agents/product-developer/?source=gh-orkas-docs) | Repo-aware implementation, fixes, and reviews | Code and verification evidence |
-| [**UIDesigner**](https://orkas.ai/agents/ui-designer/?source=gh-orkas-docs) | Product flows and editable interface design | HTML-first UI deliverables |
-| [**ImageStudio**](https://orkas.ai/agents/image-studio/?source=gh-orkas-docs) | Posters, covers, social graphics, product visuals | Editable or generated images |
-| [**VideoStudio**](https://orkas.ai/agents/video-studio/?source=gh-orkas-docs) | Narrated video, captions, dubbing, highlight clips | Finished and editable video |
-| [**SeoGeoAgent**](https://orkas.ai/agents/seo-geo-agent/?source=gh-orkas-docs) | Technical SEO, content quality, and GEO citability | Audit and ranked fix list |
+| Compare markets and assemble evidence | [Market research](https://orkas.ai/use/researchers/?source=gh-orkas-docs) · [Document Q&A](https://orkas.ai/use/chat-with-documents/?source=gh-orkas-docs) | Decision brief, citations, evidence table |
+| Prepare a business or client review | [Data analysis](https://orkas.ai/use/data-analysis/?source=gh-orkas-docs) · [Office reports](https://orkas.ai/use/office-documents/?source=gh-orkas-docs) | Workbook, report, presentation |
+| Produce a product launch | [Content](https://orkas.ai/use/content-writing/?source=gh-orkas-docs) · [Images](https://orkas.ai/use/make-images/?source=gh-orkas-docs) · [Video](https://orkas.ai/use/make-videos/?source=gh-orkas-docs) | Copy, visuals, finished video |
+| Build an app or design an interface | [App development](https://orkas.ai/use/build-apps/?source=gh-orkas-docs) · [Product workflow](https://orkas.ai/use/developers/?source=gh-orkas-docs) · [UI design](https://orkas.ai/use/ui-design/?source=gh-orkas-docs) | Source, interface, verification results |
+| Review a store or recurring operations | [Store review](https://orkas.ai/use/ecommerce/?source=gh-orkas-docs) · [Team updates](https://orkas.ai/use/automate-workspace/?source=gh-orkas-docs) | Checked data, proposed actions |
+| Improve search and AI visibility | [SEO and GEO](https://orkas.ai/use/seo-geo/?source=gh-orkas-docs) | Audit evidence, prioritized fixes |
 
-## Built for real work
+### Coordinate local agents
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Professional and reliable</h3>
-      <p>Clear ownership from planning to handoff, with reviewable files and reusable working knowledge after every run.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Secure and controlled</h3>
-      <p>Workspace data stays local by default. Define available tools, data scope, edit boundaries, and approval behavior.</p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>Open and extensible</h3>
-      <p>Use managed official models or your own provider, connect MCP tools, and coordinate supported local agents.</p>
-    </td>
-  </tr>
-</table>
+Orkas can coordinate supported local installations of Claude Code, Codex, OpenCode, OpenClaw and Hermes. Install and authenticate the tool first, then connect it through Orkas’s external-agent entry. External tools use their own model settings; native CLI permissions and Orkas connector permissions are separate controls.
 
-Orkas supports providers including OpenAI, Anthropic, Google Gemini, DeepSeek, Kimi, GLM, MiniMax, Doubao, and OpenRouter. It can also coordinate supported local agents such as Claude Code, Codex, OpenCode, OpenClaw, and Hermes from the same workspace.
+Use the [local-agent collaboration article](https://orkas.ai/blog/claude-code-codex-together/?source=gh-orkas-docs) for task-ownership ideas and the [current user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for app entry points and permissions. When agents could edit the same files, agree on ownership or use isolated working directories.
 
-## Models, files, and privacy
+## Choose a specialist
 
-- Chats, project files, knowledge material, custom agents, and generated deliverables stay on your machine by default.
-- When you connect your own provider, encrypted credentials stay local and model calls go directly to that provider.
-- Optional Orkas-managed models and cloud features use Orkas services only when you select those features.
-- The open-source desktop client is available under the MIT license in the [main Orkas repository](https://github.com/Orkas-AI/Orkas).
+| Agent | Main use |
+| --- | --- |
+| Commander | Planning, coordination, follow-up and synthesis |
+| DeepResearcher | Cited research and evidence collection |
+| ContentWriter | Articles, reports and launch copy |
+| OfficeWorker | Documents, spreadsheets, PDFs and reconciliation |
+| PptMaker | Editable presentations |
+| ProductDeveloper | Development, repairs and code review |
+| UIDesigner | Product flows and editable interfaces |
+| ImageStudio | Posters, covers and image production |
+| VideoStudio | Production, editing, captions and voice |
+| SeoGeoAgent | Search visibility audits and content improvements |
 
-Read the full [security overview](https://orkas.ai/security/?source=gh-orkas-docs).
+The agent guides below explain inputs, fit and deliverables. Find additional roles and skills in the [marketplace](https://orkas.ai/views/marketplace/?source=gh-orkas-docs).
 
-## How this repository works
+## Models, data and costs
 
-**Orkas-Docs** is the official public guide to Orkas agents, workflows, and practical use cases.
+- Chats, project files and deliverables stay on your device by default. Models, connectors, sync and sharing can send or store the data those features need.
+- Own-provider credentials stay local and model calls go directly to that provider. Optional Orkas-managed models use the managed model service.
+- Compatible local OpenAI-style model endpoints are supported. This does not automatically make search, external tools or the whole workflow offline.
+- External CLIs use their own accounts and model settings. Managed models, your providers and other services have separate availability and costs; check the app and provider terms.
+- Model API keys and task attachments do not move through cloud sync. Add supported reusable material to Library when appropriate and check the target device’s sync state.
 
-- This README is the starting directory.
-- Open Issues are maintained as current, published guides.
-- Closed Issues are outdated, replaced, or archived guides.
-- Every guide should explain a real outcome, the required inputs, the agent team, the workflow, and the deliverables—not just repeat a product claim.
+The desktop source uses the [MIT license](https://github.com/Orkas-AI/Orkas). Read the [security overview](https://orkas.ai/security/?source=gh-orkas-docs) for data boundaries and [pricing](https://orkas.ai/pricing/?source=gh-orkas-docs) for current managed plans.
 
 ## Published guides
 
@@ -174,6 +112,7 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 | Evidence-based market research | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/39) |
 | SEO and GEO visibility | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/41) |
 | Editable UI design | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/43) |
+| E-commerce Weekly Review: From Store Data to an Evidence-Based Action List | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/131) |
 
 ### Comparison guides
 
@@ -201,6 +140,10 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 | OpenClaw | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/83) |
 | OpenCode | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/85) |
 | Orca | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/87) |
+| HeyGen | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/115) |
+| OpenMontage | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/117) |
+| OpusClip | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/119) |
+| Remotion | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/121) |
 
 ### Blog guides
 
@@ -219,53 +162,33 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 | What Is Local-First AI? Your Data, Your Keys, Your Machine | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/109) |
 | BEACON: Milestone-Guided Long-Horizon Agents | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/111) |
 | An Agent That Gets Better on Its Own: Inside Orkas's Self-Evolution | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/113) |
+| Monthly Client Report: Turn Checked Numbers into Decisions | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/123) |
+| Freelance Marketing Pricing: Estimate Capacity Before Quoting | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/125) |
+| In-House or Agency Marketing: Separate Capacity, Expertise and Ownership | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/127) |
+| AI Video Budgeting: Plan for Attempts, Revisions and Usable Shots | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/129) |
 
 ## Frequently asked questions
 
-<details>
-  <summary><strong>What is Orkas?</strong></summary>
-  <br>
-  Orkas is an open-source, local-first desktop AI client. A Commander plans complex work and coordinates specialist agents to complete it together through one conversation.
-</details>
+**Do I need my own model key?**
 
-<details>
-  <summary><strong>What can I build with Orkas?</strong></summary>
-  <br>
-  You can research markets, work with documents, analyze data, write content, build slides, create images and videos, develop software, manage recurring operations, and turn repeated work into reusable agents and skills.
-</details>
+Not necessarily. Choose an available managed official model or connect a supported provider. The two paths have different account and billing boundaries.
 
-<details>
-  <summary><strong>Do I need to bring my own model key?</strong></summary>
-  <br>
-  No. You can start with optional managed official models or connect a supported provider through OAuth or an API key. Bring-your-own-provider calls go directly to that provider.
-</details>
+**Does local-first mean fully offline?**
 
-<details>
-  <summary><strong>Is Orkas a local LLM?</strong></summary>
-  <br>
-  No. Orkas is an agent orchestration desktop client, not a model. It can use supported hosted providers or an OpenAI-compatible local endpoint.
-</details>
+No. Check inference, external tools, search and sync separately. A local model does not stop other selected services from making network requests.
 
-<details>
-  <summary><strong>Which platforms are supported?</strong></summary>
-  <br>
-  Packaged releases are available for macOS and Windows. Linux can currently be built and run from the open-source repository.
-</details>
+**Can work run every week automatically?**
+
+Auto supports one-time and recurring tasks while the assigned device, access and input data remain available. Review the first result before relying on later runs.
+
+**Which platforms are supported?**
+
+The website offers macOS and Windows installers. See the [main repository](https://github.com/Orkas-AI/Orkas) and [download page](https://orkas.ai/download/?source=gh-orkas-docs) for source builds and other platform details.
+
+**How should I compare tools?**
+
+Use the same inputs, goal and permissions to compare delivery, revisions and recovery. Comparison guides describe practical fit, not performance rankings; confirm changing features, models and plans against current primary documentation.
 
 ---
 
-<h2 align="center">Your AI team is ready.</h2>
-
-<p align="center">
-  Install Orkas, choose a managed official model or connect your own provider, and put a specialist AI team to work in minutes.
-</p>
-
-<p align="center">
-  <a href="https://orkas.ai/download/?source=gh-orkas-docs"><strong>Download Orkas</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Orkas-AI/Orkas"><strong>View source</strong></a>
-</p>
-
-<p align="center">
-  Open source · Local-first · Specialist agents · Yours forever
-</p>
+[Download Orkas](https://orkas.ai/download/?source=gh-orkas-docs) · [Read the user guide](https://orkas.ai/docs/?source=gh-orkas-docs) · [View source](https://github.com/Orkas-AI/Orkas)

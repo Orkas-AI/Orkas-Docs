@@ -1,143 +1,81 @@
 <p align="center">
-  <a href="https://orkas.ai/?source=gh-orkas-docs">
-    <img src="https://orkas.ai/res/orkas.png" width="96" height="96" alt="Orkas 标志">
-  </a>
+  <a href="https://orkas.ai/?lang=zh&amp;source=gh-orkas-docs"><img src="https://orkas.ai/res/orkas.png" width="88" height="88" alt="Orkas 标志"></a>
 </p>
 
 <h1 align="center">Orkas — 你的 AI 团队</h1>
 
-<p align="center">
-  <strong>研究、文档、幻灯片、视频、网站……在这里把业务成果做出来。</strong>
-</p>
+<p align="center"><strong>用一个目标，组织研究、文档、设计、视频和开发。</strong></p>
 
 <p align="center">
-  在一个桌面对话中指挥 Commander 和专业 AI Agent。<br>
-  可直接使用可选的官方托管模型，也可以连接自己的模型供应商和本地 Agent。
+  <a href="https://orkas.ai/download/?lang=zh&amp;source=gh-orkas-docs">下载</a> ·
+  <a href="https://orkas.ai/docs/?lang=zh&amp;source=gh-orkas-docs">使用文档</a> ·
+  <a href="https://orkas.ai/views/marketplace/?lang=zh&amp;source=gh-orkas-docs">Agent 与 Skill</a> ·
+  <a href="https://github.com/Orkas-AI/Orkas">源码</a>
 </p>
 
-<p align="center">
-  <a href="https://orkas.ai/?lang=zh&amp;source=gh-orkas-docs"><strong>官网</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://orkas.ai/download/?lang=zh&amp;source=gh-orkas-docs"><strong>下载</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Orkas-AI/Orkas"><strong>开源代码</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://orkas.ai/views/marketplace/?lang=zh&amp;source=gh-orkas-docs"><strong>Agent 与 Skill</strong></a>
-</p>
+<p align="center"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-<p align="center">
-  <a href="./README.md">English</a> · <strong>简体中文</strong>
-</p>
+<p align="center"><img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Orkas 中的研究、内容和办公成果示例"></p>
 
-<p align="center">
-  <img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Orkas 能力概览">
-</p>
+Orkas 是开源、本地优先的桌面 AI 工作区，面向独立开发者、一人公司和小型团队。描述目标后，Commander 可以处理任务、协调专业 Agent，并把报告、表格、演示文稿、代码、图片或视频交付到工作区供你检查和修改。
 
----
+**Orkas-Docs 是官方指南目录。** 这里的 Issue 用于发布文章，不是问题反馈区。每个主题分别维护中文和英文版本；Open 且已锁定的 Issue 是现行指南，Closed Issue 是归档内容。
 
-## 说出一个目标，交付完整成果
+## 完成第一个任务
 
-Orkas 是一款开源、本地优先的桌面 AI 客户端，面向独立开发者、一人公司和小型团队。你只需要描述想要的结果，Commander 就会规划工作、处理通用任务，并让专业 Agent 按顺序或并行协作。
+1. [下载并打开 Orkas](https://orkas.ai/download/?lang=zh&source=gh-orkas-docs)，选择可用的官方托管模型，或连接自己的受支持供应商。
+2. 新建任务，说明想得到的结果、受众和格式，只添加相关文件或资源。
+3. 在任务中补充必要决定，检查交付物，并继续提出明确修改。需要长期复用背景时使用项目。
 
-<div align="center">
+例如：
 
-**你的目标** → **Commander** → **专业 Agent** → **可编辑的交付物**
+> 用这份销售表和会议记录准备月度业务复盘。先核对数字，再给出一页决策摘要和可编辑工作簿。标出缺失数据与待确认事项，不向任何人发送。
 
-</div>
+模型、项目、自动化、连接器、资料库和结果管理的具体入口见[完整使用指南](https://orkas.ai/docs/?lang=zh&source=gh-orkas-docs)。
 
-最终得到的不只是另一条聊天回复。Orkas 可以把报告、表格、幻灯片、代码、图片、视频、网站和可复用工作流直接交付到你的工作区。
+## 按目标找到指南
 
-## 真实工作流，真实交付物
-
-<table>
-  <thead>
-    <tr>
-      <th width="25%">业务成果</th>
-      <th width="42%">AI 团队完成什么</th>
-      <th width="33%">典型交付物</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://orkas.ai/use/researchers/?lang=zh&amp;source=gh-orkas-docs"><strong>选择下一个目标市场</strong></a></td>
-      <td>研究需求、竞争对手、风险和互相矛盾的证据，再给出可复核的建议。</td>
-      <td><code>决策简报.docx</code><br><code>证据表.csv</code><br><code>评审材料.pdf</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/content-writing/?lang=zh&amp;source=gh-orkas-docs"><strong>完成一次产品发布</strong></a></td>
-      <td>把一份已确认的产品 Brief 变成口径一致的文章、活动图片和可评审视频。</td>
-      <td><code>发布文章.md</code><br><code>社交图片.png</code><br><code>发布视频.mp4</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/office-documents/?lang=zh&amp;source=gh-orkas-docs"><strong>准备月度经营复盘</strong></a></td>
-      <td>先核对数据，再起草决策叙事并制作可编辑的经营复盘演示文稿。</td>
-      <td><code>经营报告.docx</code><br><code>分析表.xlsx</code><br><code>复盘演示.pptx</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://orkas.ai/use/automate-workspace/?lang=zh&amp;source=gh-orkas-docs"><strong>运行每周团队运营</strong></a></td>
-      <td>读取任务、消息和会议记录，生成团队周报以及负责人跟进事项。</td>
-      <td><code>团队周报.md</code><br><code>项目记录.md</code><br><code>跟进事项.csv</code></td>
-    </tr>
-  </tbody>
-</table>
-
-还可以探索[文档问答](https://orkas.ai/use/chat-with-documents/?lang=zh&amp;source=gh-orkas-docs)、[数据分析](https://orkas.ai/use/data-analysis/?lang=zh&amp;source=gh-orkas-docs)、[应用开发](https://orkas.ai/use/build-apps/?lang=zh&amp;source=gh-orkas-docs)、[UI 设计](https://orkas.ai/use/ui-design/?lang=zh&amp;source=gh-orkas-docs)、[图片制作](https://orkas.ai/use/make-images/?lang=zh&amp;source=gh-orkas-docs)、[视频制作](https://orkas.ai/use/make-videos/?lang=zh&amp;source=gh-orkas-docs)以及[搜索与 AI 答案可见性](https://orkas.ai/use/seo-geo/?lang=zh&amp;source=gh-orkas-docs)工作流。
-
-## 认识专业 Agent
-
-Commander 会为工作的每个阶段选择并协调合适的专业 Agent。如果你已经知道应该由谁负责，也可以直接召唤对应 Agent。
-
-| Agent | 最适合 | 典型交付物 |
+| 你想完成什么 | 从这里开始 | 典型交付物 |
 | --- | --- | --- |
-| [**Commander**](https://orkas.ai/agents/commander/?lang=zh&source=gh-orkas-docs) | 规划、委派、验证和重复工作 | 多 Agent 协作成果 |
-| [**DeepResearcher**](https://orkas.ai/agents/deep-researcher/?lang=zh&source=gh-orkas-docs) | 有引用、基于证据的研究 | 研究报告、证据表 |
-| [**ContentWriter**](https://orkas.ai/agents/content-writer/?lang=zh&source=gh-orkas-docs) | 文章、报告、Newsletter 和发布文案 | 可发布内容 |
-| [**PptMaker**](https://orkas.ai/agents/ppt-maker/?lang=zh&source=gh-orkas-docs) | 美观且可编辑的演示文稿 | 可评审 PPTX |
-| [**OfficeWorker**](https://orkas.ai/agents/office-worker/?lang=zh&source=gh-orkas-docs) | Word、Excel、PowerPoint 和 PDF | 已检查的办公文件 |
-| [**ProductDeveloper**](https://orkas.ai/agents/product-developer/?lang=zh&source=gh-orkas-docs) | 理解代码仓库的开发、修复与评审 | 代码和验证证据 |
-| [**UIDesigner**](https://orkas.ai/agents/ui-designer/?lang=zh&source=gh-orkas-docs) | 产品流程和可编辑界面设计 | HTML 优先的 UI 交付物 |
-| [**ImageStudio**](https://orkas.ai/agents/image-studio/?lang=zh&source=gh-orkas-docs) | 海报、封面、社交图片和产品视觉 | 可编辑或生成的图片 |
-| [**VideoStudio**](https://orkas.ai/agents/video-studio/?lang=zh&source=gh-orkas-docs) | 解说视频、字幕、配音和高光片段 | 成片与可编辑视频 |
-| [**SeoGeoAgent**](https://orkas.ai/agents/seo-geo-agent/?lang=zh&source=gh-orkas-docs) | 技术 SEO、内容质量与 GEO 可引用性 | 审计和排序后的修复清单 |
+| 比较市场、整理证据 | [市场研究](https://orkas.ai/use/researchers/?lang=zh&source=gh-orkas-docs) · [文档问答](https://orkas.ai/use/chat-with-documents/?lang=zh&source=gh-orkas-docs) | 决策简报、引用与证据表 |
+| 准备经营或客户复盘 | [数据分析](https://orkas.ai/use/data-analysis/?lang=zh&source=gh-orkas-docs) · [办公报告](https://orkas.ai/use/office-documents/?lang=zh&source=gh-orkas-docs) | 工作簿、报告、演示文稿 |
+| 完成产品发布内容 | [内容制作](https://orkas.ai/use/content-writing/?lang=zh&source=gh-orkas-docs) · [图片](https://orkas.ai/use/make-images/?lang=zh&source=gh-orkas-docs) · [视频](https://orkas.ai/use/make-videos/?lang=zh&source=gh-orkas-docs) | 文案、视觉素材、成片 |
+| 开发应用或设计界面 | [应用开发](https://orkas.ai/use/build-apps/?lang=zh&source=gh-orkas-docs) · [产品工作流](https://orkas.ai/use/developers/?lang=zh&source=gh-orkas-docs) · [UI 设计](https://orkas.ai/use/ui-design/?lang=zh&source=gh-orkas-docs) | 源码、界面与验证结果 |
+| 复盘店铺与重复运营 | [电商周复盘](https://orkas.ai/use/ecommerce/?lang=zh&source=gh-orkas-docs) · [团队周报](https://orkas.ai/use/automate-workspace/?lang=zh&source=gh-orkas-docs) | 核对后的数据、行动草稿 |
+| 改善搜索与 AI 可见性 | [SEO 与 GEO](https://orkas.ai/use/seo-geo/?lang=zh&source=gh-orkas-docs) | 问题证据、修复优先级 |
 
-## 为真实工作而设计
+### 协调本地 Agent
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>专业且可靠</h3>
-      <p>从规划到交付都有清晰归属，每次运行留下可评审文件和可复用的工作知识。</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>安全且可控</h3>
-      <p>工作区数据默认留在本机，并可定义可用工具、数据范围、编辑边界与审批方式。</p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>开放且可扩展</h3>
-      <p>使用官方托管模型或自己的供应商，连接 MCP 工具，并协调受支持的本地 Agent。</p>
-    </td>
-  </tr>
-</table>
+Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes 本地安装。先按对应工具的要求安装、登录，再通过 Orkas 的外接 Agent 入口接入。外接工具使用自己的模型设置；CLI 原生权限和 Orkas 连接器权限分别生效。
 
-Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMax、豆包和 OpenRouter 等供应商，也可以在同一工作区协调 Claude Code、Codex、OpenCode、OpenClaw、Hermes 等受支持的本地 Agent。
+从[本地 Agent 协作文章](https://orkas.ai/blog/claude-code-codex-together/?lang=zh&source=gh-orkas-docs)了解任务分工，并以[当前使用指南](https://orkas.ai/docs/?lang=zh&source=gh-orkas-docs)核对应用入口和权限。多个 Agent 可能修改相同文件时，先明确文件归属或使用隔离工作目录。
 
-## 模型、文件与隐私
+## 选择专业角色
 
-- 对话、项目文件、知识材料、自定义 Agent 和生成的交付物默认保存在本机。
-- 连接自己的模型供应商时，加密凭证留在本地，模型请求直接发送给该供应商。
-- 只有当你主动选择 Orkas 官方托管模型或云功能时，对应功能才会使用 Orkas 服务。
-- 开源桌面客户端采用 MIT 许可证，代码位于 [Orkas 主仓库](https://github.com/Orkas-AI/Orkas)。
+| Agent | 主要用途 |
+| --- | --- |
+| Commander | 规划、协调、跟进与汇总 |
+| DeepResearcher | 有引用的研究与证据整理 |
+| ContentWriter | 文章、报告、发布文案 |
+| OfficeWorker | 文档、表格、PDF 与数字核对 |
+| PptMaker | 可编辑演示文稿 |
+| ProductDeveloper | 开发、修复与代码评审 |
+| UIDesigner | 产品流程和可编辑界面 |
+| ImageStudio | 海报、封面与图片制作 |
+| VideoStudio | 视频制作、剪辑、字幕与配音 |
+| SeoGeoAgent | 搜索可见性审计与内容改进 |
 
-阅读完整的[安全说明](https://orkas.ai/security/?lang=zh&source=gh-orkas-docs)。
+下面的 Agent 指南介绍输入、适用范围和交付物；更多角色与技能可在[市场](https://orkas.ai/views/marketplace/?lang=zh&source=gh-orkas-docs)查看。
 
-## 这个仓库如何使用
+## 模型、数据与费用
 
-**Orkas-Docs** 是 Orkas Agent、工作流和实际使用场景的官方公开指南。
+- 对话、项目文件和交付物默认保存在本机。模型、连接器、同步和分享可能发送或保存各功能所需的数据。
+- 自有供应商凭证留在本地，模型请求直达该供应商；可选 Orkas 托管模型使用托管服务。
+- 可连接兼容 OpenAI 接口的本地模型服务，但这不自动让搜索、外部工具或整个工作流离线。
+- 外接 CLI 使用其自身账号与模型设置。托管模型、自有供应商及其他服务的可用性和费用分别计算，以应用及服务商说明为准。
+- 模型 API 密钥和任务附件不会随云同步迁移。需复用的受支持资料可加入资料库，并检查目标设备同步状态。
 
-- README 是内容总入口。
-- Open Issue 代表当前有效、正式发布的指南。
-- Closed Issue 代表已经过期、被替代或归档的指南。
-- 每篇指南都应说明真实目标、所需输入、Agent 团队、执行流程和交付物，而不是简单重复产品宣传。
+客户端源码采用 [MIT 许可证](https://github.com/Orkas-AI/Orkas)。数据边界见[安全说明](https://orkas.ai/security/?lang=zh&source=gh-orkas-docs)；当前托管套餐见[价格页](https://orkas.ai/pricing/?lang=zh&source=gh-orkas-docs)。
 
 ## 已发布指南
 
@@ -174,6 +112,7 @@ Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMa
 | 基于证据的市场研究 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/40) |
 | SEO 与 GEO 可见性 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/42) |
 | 可编辑 UI 设计 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/44) |
+| 电商店铺周复盘：从订单、库存和退货数据形成行动清单 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/132) |
 
 ### 对比指南
 
@@ -201,6 +140,10 @@ Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMa
 | OpenClaw | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
 | OpenCode | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
 | Orca | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
+| HeyGen | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/116) |
+| OpenMontage | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/118) |
+| OpusClip | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/120) |
+| Remotion | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/122) |
 
 ### 博客指南
 
@@ -219,53 +162,33 @@ Orkas 支持 OpenAI、Anthropic、Google Gemini、DeepSeek、Kimi、GLM、MiniMa
 | 什么是本地优先 AI？你的数据、你的密钥、你的机器 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/110) |
 | BEACON：用里程碑引导的长程 Agent | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/112) |
 | 一个会自己变好用的 Agent：拆解 Orkas 的自演进机制 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/114) |
+| 客户月报怎么写：先核对数字，再形成结论和下月行动 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/124) |
+| 自由职业营销报价：先算可计费产能，再确定项目范围 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/126) |
+| 营销自己做、招人还是找代理：拆开产能、专业能力与责任 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/128) |
+| AI 视频预算怎么做：把尝试、修改和可用镜头都算进去 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/130) |
 
 ## 常见问题
 
-<details>
-  <summary><strong>Orkas 是什么？</strong></summary>
-  <br>
-  Orkas 是一款开源、本地优先的桌面 AI 客户端。Commander 会规划复杂工作，并在一个对话中协调多个专业 Agent 一起完成任务。
-</details>
+**一定要有自己的模型 Key 吗？**
 
-<details>
-  <summary><strong>我可以用 Orkas 做什么？</strong></summary>
-  <br>
-  你可以研究市场、处理文档、分析数据、撰写内容、制作幻灯片、生成图片和视频、开发软件、管理重复运营工作，并把重复流程沉淀为可复用的 Agent 和 Skill。
-</details>
+不一定。可以选择可用的官方托管模型，也可以连接自己的受支持供应商；两种方式的账号和计费边界不同。
 
-<details>
-  <summary><strong>必须提供自己的模型 Key 吗？</strong></summary>
-  <br>
-  不需要。你可以使用可选的官方托管模型，也可以通过 OAuth 或 API Key 连接受支持的模型供应商。使用自己的供应商时，模型请求会直接发送给该供应商。
-</details>
+**本地优先等于完全离线吗？**
 
-<details>
-  <summary><strong>Orkas 是本地大模型吗？</strong></summary>
-  <br>
-  不是。Orkas 是 Agent 编排桌面客户端，不是模型本身。它可以使用受支持的云端模型供应商，也可以连接兼容 OpenAI 接口的本地模型服务。
-</details>
+不等于。应分别检查模型推理、外部工具、搜索与同步。使用本地模型，也不代表其他服务不会出网。
 
-<details>
-  <summary><strong>支持哪些操作系统？</strong></summary>
-  <br>
-  macOS 和 Windows 提供打包安装版本。Linux 当前可以从开源仓库构建并运行。
-</details>
+**能每周自动执行吗？**
+
+可以使用自动化设置单次或周期任务，但指定设备、账号访问和输入数据必须在执行时可用。先检查首轮结果，再依赖后续运行。
+
+**支持哪些平台？**
+
+官网提供 macOS 与 Windows 安装包。源码构建与其他平台说明以[主仓库](https://github.com/Orkas-AI/Orkas)及[下载页](https://orkas.ai/download/?lang=zh&source=gh-orkas-docs)为准。
+
+**怎样比较工具？**
+
+用相同输入、目标和权限比较完整交付、修改与恢复过程。对比指南是适用性分析，不是性能排名；功能、模型和套餐以当前一手文档为准。
 
 ---
 
-<h2 align="center">你的 AI 团队已经准备好了。</h2>
-
-<p align="center">
-  安装 Orkas，选择官方托管模型或连接自己的模型供应商，几分钟内让专业 AI 团队开始工作。
-</p>
-
-<p align="center">
-  <a href="https://orkas.ai/download/?lang=zh&amp;source=gh-orkas-docs"><strong>下载 Orkas</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Orkas-AI/Orkas"><strong>查看源码</strong></a>
-</p>
-
-<p align="center">
-  开源 · 本地优先 · 专业 Agent · 永久属于你
-</p>
+[下载 Orkas](https://orkas.ai/download/?lang=zh&source=gh-orkas-docs) · [阅读使用指南](https://orkas.ai/docs/?lang=zh&source=gh-orkas-docs) · [查看源码](https://github.com/Orkas-AI/Orkas)
