@@ -116,34 +116,41 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 
 ### Comparison guides
 
-| Compare Orkas with | Published guide |
+| Comparison topic | Published guide |
 | --- | --- |
-| Activepieces | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/45) |
-| AnythingLLM | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/47) |
-| AutoGPT | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/49) |
-| Bolt.new | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/51) |
-| ChatGPT | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/53) |
-| Claude Code | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/55) |
-| Cline | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/57) |
-| Codex | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/59) |
-| CrewAI | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/61) |
-| DeepSeek Harness | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/63) |
-| Devin | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/65) |
-| Dify | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/67) |
-| Flowise | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/69) |
-| Goose | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/71) |
-| Hermes Agent | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/73) |
-| LangChain | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/75) |
-| LibreChat | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/77) |
-| Lovable | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/79) |
-| n8n | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/81) |
-| OpenClaw | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/83) |
-| OpenCode | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/85) |
-| Orca | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/87) |
-| HeyGen | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/115) |
-| OpenMontage | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/117) |
-| OpusClip | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/119) |
-| Remotion | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/121) |
+| Activepieces vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/45) |
+| AnythingLLM vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/47) |
+| AutoGPT vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/49) |
+| Bolt.new vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/51) |
+| ChatGPT vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/53) |
+| Claude Code vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/55) |
+| Cline vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/57) |
+| Codex vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/59) |
+| CrewAI vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/61) |
+| DeepSeek Harness vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/63) |
+| Devin vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/65) |
+| Dify vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/67) |
+| Flowise vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/69) |
+| Goose vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/71) |
+| Hermes Agent vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/73) |
+| LangChain vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/75) |
+| LibreChat vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/77) |
+| Lovable vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/79) |
+| n8n vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/81) |
+| OpenClaw vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/83) |
+| OpenCode vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/85) |
+| Orca vs Orkas | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/87) |
+| HeyGen vs Orkas | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/115) |
+| OpenMontage vs Orkas | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/117) |
+| OpusClip vs Orkas | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/119) |
+| Remotion vs Orkas | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/121) |
+| Local-First AI Tools in 2026: Compare Storage, Inference and External Access | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/143) |
+| Multi-Agent AI Tools in 2026: Choose a Desktop Workspace or Build a Workflow | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/145) |
+| Claude Code Alternatives in 2026: Choose by the Workflow You Want to Change | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/147) |
+| Claude Code vs Codex vs OpenCode: Compare a Complete Repository Workflow | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/149) |
+| Claude Code vs Hermes Agent: Repository Work, Recurring Tasks and Host Setup | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/151) |
+| Codex vs OpenCode: Provider Setup, Repository Workflow and Effective Permissions | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/153) |
+| Hermes Agent vs Codex: Match the Task, Host and Recovery Requirements | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/155) |
 
 ### Blog guides
 
@@ -166,6 +173,11 @@ These Open, locked Issues are the maintained English guides. Each one explains t
 | Freelance Marketing Pricing: Estimate Capacity Before Quoting | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/125) |
 | In-House or Agency Marketing: Separate Capacity, Expertise and Ownership | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/127) |
 | AI Video Budgeting: Plan for Attempts, Revisions and Usable Shots | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/129) |
+| Amazon Seller MCP: Connect Store Data and Build a Useful Review | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/133) |
+| Connect eBay to Claude: Production Keys, RuName and a First Store Review | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/135) |
+| Connect Etsy to Claude: App Access, Shop ID and a Read-First Workflow | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/137) |
+| Connect Shopify to Claude: Developer Tools, Store Access and Scope Checks | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/139) |
+| Connect WooCommerce to Claude: Store URL, REST Keys and a First Data Check | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/141) |
 
 ## Frequently asked questions
 

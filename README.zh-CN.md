@@ -116,34 +116,41 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 
 ### 对比指南
 
-| 与 Orkas 对比的产品 | 已发布指南 |
+| 对比主题 | 已发布指南 |
 | --- | --- |
-| Activepieces | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/46) |
-| AnythingLLM | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/48) |
-| AutoGPT | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/50) |
-| Bolt.new | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/52) |
-| ChatGPT | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/54) |
-| Claude Code | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/56) |
-| Cline | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/58) |
-| Codex | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/60) |
-| CrewAI | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/62) |
-| DeepSeek Harness | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/64) |
-| Devin | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/66) |
-| Dify | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/68) |
-| Flowise | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/70) |
-| Goose | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/72) |
-| Hermes Agent | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/74) |
-| LangChain | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/76) |
-| LibreChat | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/78) |
-| Lovable | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/80) |
-| n8n | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/82) |
-| OpenClaw | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
-| OpenCode | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
-| Orca | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
-| HeyGen | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/116) |
-| OpenMontage | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/118) |
-| OpusClip | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/120) |
-| Remotion | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/122) |
+| Activepieces 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/46) |
+| AnythingLLM 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/48) |
+| AutoGPT 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/50) |
+| Bolt.new 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/52) |
+| ChatGPT 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/54) |
+| Claude Code 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/56) |
+| Cline 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/58) |
+| Codex 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/60) |
+| CrewAI 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/62) |
+| DeepSeek Harness 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/64) |
+| Devin 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/66) |
+| Dify 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/68) |
+| Flowise 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/70) |
+| Goose 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/72) |
+| Hermes Agent 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/74) |
+| LangChain 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/76) |
+| LibreChat 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/78) |
+| Lovable 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/80) |
+| n8n 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/82) |
+| OpenClaw 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/84) |
+| OpenCode 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/86) |
+| Orca 与 Orkas | [阅读中文对比 →](https://github.com/Orkas-AI/Orkas-Docs/issues/88) |
+| HeyGen 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/116) |
+| OpenMontage 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/118) |
+| OpusClip 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/120) |
+| Remotion 与 Orkas | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/122) |
+| 2026 本地优先 AI 工具怎么选：分开看存储、推理与外部访问 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/144) |
+| 2026 多 Agent 工具怎么选：桌面工作区、网关与开发框架 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/146) |
+| 2026 Claude Code 替代品怎么选：先明确要改变哪部分工作流 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/148) |
+| Claude Code、Codex、OpenCode 三方对比：用完整仓库任务做选择 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/150) |
+| Claude Code 与 Hermes Agent 怎么选：仓库任务、重复工作与接入方式 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/152) |
+| Codex 与 OpenCode 怎么选：供应商配置、仓库流程与实际权限 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/154) |
+| Hermes Agent 与 Codex 怎么选：任务目标、运行主机与恢复要求 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/156) |
 
 ### 博客指南
 
@@ -166,6 +173,11 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | 自由职业营销报价：先算可计费产能，再确定项目范围 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/126) |
 | 营销自己做、招人还是找代理：拆开产能、专业能力与责任 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/128) |
 | AI 视频预算怎么做：把尝试、修改和可用镜头都算进去 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/130) |
+| Amazon Seller MCP 怎么用：接入店铺数据，形成有依据的复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/134) |
+| eBay 怎么接入 Claude：正式环境凭证、RuName 与首次店铺复盘 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/136) |
+| Etsy 怎么接入 Claude：应用权限、Shop ID 与首次数据核对 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/138) |
+| Shopify 怎么接入 Claude：区分开发工具、店铺数据与应用权限 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/140) |
+| WooCommerce 怎么接入 Claude：商店网址、REST 密钥与数据核对 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/142) |
 
 ## 常见问题
 
