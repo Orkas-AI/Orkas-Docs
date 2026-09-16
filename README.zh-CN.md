@@ -178,6 +178,10 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | 把 Etsy 接到 Claude：每条路各自能做什么、不能做什么 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/138) |
 | 把 Shopify 接到 Claude：什么能用，什么会坏 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/140) |
 | 把 WooCommerce 接到 Claude：唯一不用应用审批的那种店 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/142) |
+| 把广告账户的写权限交给 Agent 之前 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/158) |
+| ChatGPT 和 Gemini 是怎么描述你的产品的 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/160) |
+| AI 可见性审计：3000 美元的代理商报价、三个工具，和自己跑 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/162) |
+| 对账供应商的追踪号，不用一单一单看 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/164) |
 
 ## 常见问题
 

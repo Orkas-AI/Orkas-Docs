@@ -178,6 +178,10 @@ These Open, locked Issues are the maintained English guides. Each preserves the 
 | Connect Etsy to Claude: What Each Route Can and Cannot Do | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/137) |
 | Connect Shopify to Claude: What Works and What Breaks | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/139) |
 | Connect WooCommerce to Claude: The Store With No App Approval | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/141) |
+| Before You Give an Agent Write Access to Your Ad Account | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/157) |
+| How ChatGPT and Gemini Describe Your Products | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/159) |
+| AI Visibility Audit: the $3,000 Agency Quote, Three Tools, and Doing It Yourself | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/161) |
+| Reconcile Supplier Tracking Numbers Without Reading Every Order | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/163) |
 
 ## Frequently asked questions
 
