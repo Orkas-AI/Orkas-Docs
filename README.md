@@ -45,6 +45,7 @@ See the [full user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for model
 | Coordinate a team or client delivery | [Shared projects](https://orkas.ai/use/small-teams/?source=gh-orkas-docs) · [Client delivery](https://orkas.ai/use/client-projects/?source=gh-orkas-docs) | Shared rules, Library files, owner to-dos and a delivery pack |
 | Review a store or recurring operations | [Store review](https://orkas.ai/use/ecommerce/?source=gh-orkas-docs) · [Team updates](https://orkas.ai/use/automate-workspace/?source=gh-orkas-docs) | Checked data, proposed actions |
 | Improve search and AI visibility | [SEO and GEO](https://orkas.ai/use/seo-geo/?source=gh-orkas-docs) | Audit evidence, prioritized fixes |
+| Produce narration, transcripts or an audio episode | [VoiceStudio](https://orkas.ai/agents/voice-studio/?source=gh-orkas-docs) | Narration, TXT/SRT and a revisable audio project |
 
 ### Coordinate local agents
 
@@ -74,6 +75,13 @@ Compatible public browser apps can be published on an eligible plan, but cannot 
 | ImageStudio | Posters, covers and image production |
 | VideoStudio | Production, editing, captions and voice |
 | SeoGeoAgent | Search visibility audits and content improvements |
+| ECommerceAnalyzer | Reconciled store metrics, profit drivers and stock risk |
+| ECommerceOperator | Item-level store change plans and verified results |
+| ECommerceResearcher | Product shortlists, unit economics and validation |
+| ECommerceReviewer | Review themes, VOC evidence and improvement priorities |
+| ECommerceWriter | Channel-specific listing copy and creative briefs |
+| StockAnalyser | Sourced stock research, backtests and portfolio risk |
+| VoiceStudio | Narration, local transcription and audio editing |
 
 The agent guides below explain inputs, fit and deliverables. Find additional roles and skills in the [marketplace](https://orkas.ai/views/marketplace/?source=gh-orkas-docs).
 
@@ -105,6 +113,13 @@ These Open, locked Issues are the maintained English guides. Each guide explains
 | SeoGeoAgent - Prioritize SEO Issues and Fix Them in the Repo | [Read the SeoGeoAgent guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/15) |
 | UIDesigner — HTML-first AI UI design in Orkas | [Read the UIDesigner guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/17) |
 | VideoStudio — Create and intelligently edit video in Orkas | [Read the VideoStudio guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/19) |
+| ECommerceAnalyzer — Reconcile Store Metrics and Explain Profit Changes | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/165) |
+| ECommerceOperator — Review Store Changes and Verify Each Result | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/167) |
+| ECommerceResearcher — Product Shortlists, Unit Economics and Validation | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/169) |
+| ECommerceReviewer — Review Themes, VOC Evidence and Improvement Priorities | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/171) |
+| ECommerceWriter — Channel-Specific Listing Copy from Verified Product Facts | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/173) |
+| StockAnalyser — Traceable Research, Backtests and Portfolio Risk | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/175) |
+| VoiceStudio — Narration, Transcripts and Revisable Audio Edits | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/177) |
 
 ### Use-case guides
 
@@ -123,6 +138,9 @@ These Open, locked Issues are the maintained English guides. Each guide explains
 | SEO and AI Visibility — Citations, Evidence and Prioritized Fixes | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/41) |
 | AI UI Design — Editable Interfaces and Complete Product States | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/43) |
 | E-commerce Store Review — Weekly Priorities, Draft Replies and To-dos | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/131) |
+| Client Delivery in Orkas — Repeatable Reports with Separate Client Context | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/223) |
+| Software Development with Orkas — From UI Requirements to Verified Code | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/225) |
+| Small-Team AI Collaboration — Shared Rules, Owners and Reviewable Files | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/227) |
 
 ### Comparison guides
 
@@ -161,6 +179,11 @@ These Open, locked Issues are the maintained English guides. Each guide explains
 | Claude Code vs Hermes Agent: one you steer, one you leave running. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/151) |
 | Codex vs OpenCode: one is the vendor's own agent, one is yours to fork. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/153) |
 | Hermes vs Codex: these are not the same category, and that is the answer. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/155) |
+| Claude Code Projects vs Orkas — Cloud Threads or Mixed Local Agents | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/213) |
+| Claude Cowork Alternatives — Choose by Workflow, Model Access and Deployment | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/215) |
+| Open-Source Desktop AI Agents — Compare File Work, CLI Sessions and Computer Use | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/217) |
+| OpenChamber vs OpenCode Desktop vs Orkas — Choose the Right Agent Workspace | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/219) |
+| video-use vs Orkas VideoStudio — A Skill in Your Assistant or a Desktop Video Agent | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/221) |
 
 ### Blog guides
 
@@ -192,6 +215,23 @@ These Open, locked Issues are the maintained English guides. Each guide explains
 | How ChatGPT and Gemini Describe Your Products | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/159) |
 | AI Visibility Audit: the $3,000 Agency Quote, Three Tools, and Doing It Yourself | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/161) |
 | Reconcile Supplier Tracking Numbers Without Reading Every Order | [Read the article guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/163) |
+| Agentic SEO — Build a Repeatable Evidence-to-Fix Workflow | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/179) |
+| Automate Video Editing — Evidence, Cut Lists and Repeatable Assembly | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/181) |
+| Batch Video Editing — One Approved Cut and a Checkable Export Matrix | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/183) |
+| Build AI Employees — Start with One Job, Then Connect the Team | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/185) |
+| CapCut with ChatGPT or Codex — Official Drafts and the Orkas File Workflow | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/187) |
+| Claude and DaVinci Resolve — Choose Studio Control or a File Handoff | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/189) |
+| Claude and Final Cut Pro — Rough Cuts, SRT Captions and Editable Handoffs | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/191) |
+| Claude and Premiere Pro — Rough-Cut Files, Adobe Tools and Community MCP | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/193) |
+| cmux on Windows? Choose a Working Multi-Agent CLI Setup | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/195) |
+| Connect ServiceM8 to Claude or Orkas — Read Jobs and Prepare Follow-up | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/197) |
+| DaVinci Resolve MCP — Edition Checks, Connection Routes and Verification | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/199) |
+| Edit Videos with Claude — Tool-Based Cuts and a CapCut File Handoff | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/201) |
+| GPT-6 Astra Spatial Reasoning — Read the Evidence Behind 3D and Robot Demos | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/203) |
+| Human–Agent Collaboration — Clean Context, Owned Tasks and File Handoffs | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/205) |
+| Product Video Prompts — Verified Facts, Timed Scripts and Shot Lists | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/207) |
+| Shared Projects in Orkas — Invitations, Private Data and Sync Recovery | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/209) |
+| Vidu S2 vs PixVerse R2 — Compare Real-Time Video Tasks and Technical Trade-offs | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/211) |
 
 ## Frequently asked questions
 

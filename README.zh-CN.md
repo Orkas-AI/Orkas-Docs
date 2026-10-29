@@ -45,6 +45,7 @@ Orkas 是开源、本地优先的桌面 AI 工作区，面向独立开发者、�
 | 协调团队或客户交付 | [共享项目](https://orkas.ai/use/small-teams/?lang=zh&source=gh-orkas-docs) · [客户交付](https://orkas.ai/use/client-projects/?lang=zh&source=gh-orkas-docs) | 共享规则、资料库、负责人待办与交付包 |
 | 复盘店铺与重复运营 | [电商周复盘](https://orkas.ai/use/ecommerce/?lang=zh&source=gh-orkas-docs) · [团队周报](https://orkas.ai/use/automate-workspace/?lang=zh&source=gh-orkas-docs) | 核对后的数据、行动草稿 |
 | 改善搜索与 AI 可见性 | [SEO 与 GEO](https://orkas.ai/use/seo-geo/?lang=zh&source=gh-orkas-docs) | 问题证据、修复优先级 |
+| 制作配音、文字稿或音频节目 | [VoiceStudio](https://orkas.ai/agents/voice-studio/?source=gh-orkas-docs&lang=zh) | 配音、TXT／SRT 和可修改音频项目 |
 
 ### 协调本地 Agent
 
@@ -74,6 +75,13 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | ImageStudio | 海报、封面与图片制作 |
 | VideoStudio | 视频制作、剪辑、字幕与配音 |
 | SeoGeoAgent | 搜索可见性审计与内容改进 |
+| ECommerceAnalyzer | 经营指标对账、利润变化与库存风险 |
+| ECommerceOperator | 逐项店铺变更方案与结果核实 |
+| ECommerceResearcher | 选品清单、单件利润与验证方案 |
+| ECommerceReviewer | 评论与 VOC 证据、改进优先级 |
+| ECommerceWriter | 多平台商品文案与创意简报 |
+| StockAnalyser | 有来源的股票研究、回测与组合风险 |
+| VoiceStudio | 配音、本地转写与音频剪辑 |
 
 下面的 Agent 指南介绍输入、适用范围和交付物；更多角色与技能可在[市场](https://orkas.ai/views/marketplace/?lang=zh&source=gh-orkas-docs)查看。
 
@@ -105,6 +113,13 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | SeoGeoAgent — 先修哪几条 SEO 问题 | [阅读 SeoGeoAgent 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/16) |
 | UIDesigner — UI/UX 设计 Agent | [阅读 UIDesigner 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/18) |
 | VideoStudio — AI 视频制作与智能剪辑 Agent | [阅读 VideoStudio 中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/20) |
+| ECommerceAnalyzer — 电商经营对账与利润变化分析 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/166) |
+| ECommerceOperator — 店铺变更方案与逐项结果核对 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/168) |
+| ECommerceResearcher — 选品证据、单件利润与验证方案 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/170) |
+| ECommerceReviewer — 商品评论、VOC 证据与改进优先级 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/172) |
+| ECommerceWriter — 基于商品事实撰写多平台上架文案 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/174) |
+| StockAnalyser — 可追溯股票研究、回测与组合风险 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/176) |
+| VoiceStudio — 配音、转写与可继续修改的音频剪辑 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/178) |
 
 ### 使用场景指南
 
@@ -123,6 +138,9 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | SEO 与 AI 可见性 — 区分提及、引用与可执行修复 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/42) |
 | AI UI 设计 — 可编辑界面与完整产品状态 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/44) |
 | 电商店铺周复盘 — 本周重点、回复草稿与待办 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/132) |
+| 客户交付工作流 — 独立项目中的周报与会议简报 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/224) |
+| Orkas 软件开发 — 从界面需求到经过验证的代码 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/226) |
+| 小团队 AI 协作 — 共享规则、负责人待办与成品文件 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/228) |
 
 ### 对比指南
 
@@ -161,6 +179,11 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | Claude Code vs Hermes Agent： 一个你在旁边把着，一个你扔那让它跑。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/152) |
 | Codex vs OpenCode： 一个是模型厂商自己的 agent，一个是你可以 fork 的。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/154) |
 | Hermes vs Codex： 这两个根本不是一类东西，这就是答案。 | [阅读中文指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/156) |
+| Claude Code Projects vs Orkas — 云端线程还是本地多种智能体 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/214) |
+| Claude Cowork 替代品 — 按工作流、模型接入和部署需求选择 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/216) |
+| 开源桌面 AI 智能体 — 文件交付、CLI 会话与电脑操作分别比较 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/218) |
+| OpenChamber vs OpenCode Desktop vs Orkas — 如何选择智能体工作区 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/220) |
+| video-use vs Orkas VideoStudio — 助手内技能还是桌面视频智能体 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/222) |
 
 ### 博客指南
 
@@ -192,6 +215,23 @@ Orkas 可协调受支持的 Claude Code、Codex、OpenCode、OpenClaw 和 Hermes
 | ChatGPT 和 Gemini 是怎么描述你的产品的 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/160) |
 | AI 可见性审计：3000 美元的代理商报价、三个工具，和自己跑 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/162) |
 | 对账供应商的追踪号，不用一单一单看 | [阅读中文文章指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/164) |
+| Agentic SEO — 从证据到修复的可重复工作流 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/180) |
+| 视频剪辑自动化 — 素材证据、剪辑清单与重复装配 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/182) |
+| 批量视频剪辑 — 一份确认方案与逐文件导出矩阵 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/184) |
+| 搭建 AI 员工 — 从一个明确岗位做到一支协作团队 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/186) |
+| CapCut 与 ChatGPT／Codex — 官方草稿流程与 Orkas 文件交付 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/188) |
+| Claude 与 DaVinci Resolve — Studio 控制或媒体文件交接 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/190) |
+| Claude 与 Final Cut Pro — 粗剪、SRT 字幕与可编辑交接 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/192) |
+| Claude 与 Premiere Pro — 文件粗剪、Adobe 工具与社区 MCP | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/194) |
+| Windows 上的 cmux 替代方案 — 多个编程智能体会话怎么组织 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/196) |
+| 连接 ServiceM8 到 Claude 或 Orkas — 工单读取与跟进草稿 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/198) |
+| DaVinci Resolve MCP — 版本条件、连接路线与实际验证 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/200) |
+| 用 Claude 剪视频 — 工具剪辑与 CapCut 文件交接 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/202) |
+| GPT-6 Astra 空间推理 — 如何核对 3D 与机器人演示的证据 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/204) |
+| 人与智能体协作 — 干净上下文、明确负责人和文件交接 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/206) |
+| 产品视频提示词 — 核实事实、时间脚本与分镜清单 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/208) |
+| Orkas 共享项目 — 邀请、私有内容与同步恢复 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/210) |
+| Vidu S2 vs PixVerse R2 — 实时视频任务与技术取舍怎么比较 | [阅读指南 →](https://github.com/Orkas-AI/Orkas-Docs/issues/212) |
 
 ## 常见问题
 
