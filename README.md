@@ -4,7 +4,7 @@
 
 <h1 align="center">Orkas — Your AI Team</h1>
 
-<p align="center"><strong>One goal across research, documents, design, video and development.</strong></p>
+<p align="center"><strong>Scale your business without hiring.</strong></p>
 
 <p align="center">
   <a href="https://orkas.ai/download/?source=gh-orkas-docs">Download</a> ·
@@ -40,7 +40,9 @@ See the [full user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for model
 | Compare markets and assemble evidence | [Market research](https://orkas.ai/use/researchers/?source=gh-orkas-docs) · [Document Q&A](https://orkas.ai/use/chat-with-documents/?source=gh-orkas-docs) | Decision brief, citations, evidence table |
 | Prepare a business or client review | [Data analysis](https://orkas.ai/use/data-analysis/?source=gh-orkas-docs) · [Office reports](https://orkas.ai/use/office-documents/?source=gh-orkas-docs) | Workbook, report, presentation |
 | Produce a product launch | [Content](https://orkas.ai/use/content-writing/?source=gh-orkas-docs) · [Images](https://orkas.ai/use/make-images/?source=gh-orkas-docs) · [Video](https://orkas.ai/use/make-videos/?source=gh-orkas-docs) | Copy, visuals, finished video |
-| Build an app or design an interface | [App development](https://orkas.ai/use/build-apps/?source=gh-orkas-docs) · [Product workflow](https://orkas.ai/use/developers/?source=gh-orkas-docs) · [UI design](https://orkas.ai/use/ui-design/?source=gh-orkas-docs) | Source, interface, verification results |
+| Develop software or a product workflow | [Software development](https://orkas.ai/use/product-launch/?source=gh-orkas-docs) · [Product workflow](https://orkas.ai/use/developers/?source=gh-orkas-docs) · [UI design](https://orkas.ai/use/ui-design/?source=gh-orkas-docs) | Source, interface and acceptance evidence |
+| Publish a customer self-service tool | [Serve customers](https://orkas.ai/use/build-apps/?source=gh-orkas-docs) | Editable app, public link and publication details |
+| Coordinate a team or client delivery | [Shared projects](https://orkas.ai/use/small-teams/?source=gh-orkas-docs) · [Client delivery](https://orkas.ai/use/client-projects/?source=gh-orkas-docs) | Shared rules, Library files, owner to-dos and a delivery pack |
 | Review a store or recurring operations | [Store review](https://orkas.ai/use/ecommerce/?source=gh-orkas-docs) · [Team updates](https://orkas.ai/use/automate-workspace/?source=gh-orkas-docs) | Checked data, proposed actions |
 | Improve search and AI visibility | [SEO and GEO](https://orkas.ai/use/seo-geo/?source=gh-orkas-docs) | Audit evidence, prioritized fixes |
 
@@ -49,6 +51,14 @@ See the [full user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for model
 Orkas can coordinate supported local installations of Claude Code, Codex, OpenCode, OpenClaw and Hermes. Install and authenticate the tool first, then connect it through Orkas’s external-agent entry. External tools use their own model settings; native CLI permissions and Orkas connector permissions are separate controls.
 
 Use the [local-agent collaboration article](https://orkas.ai/blog/claude-code-codex-together/?source=gh-orkas-docs) for task-ownership ideas and the [current user guide](https://orkas.ai/docs/?source=gh-orkas-docs) for app entry points and permissions. When agents could edit the same files, agree on ownership or use isolated working directories.
+
+## Team work and recurring tasks
+
+Shared projects let members use common goals and rules, project memory, Library files and to-dos. Task conversations, Automation, CLI agents, model credentials and personal credits remain private; custom agents need explicit sharing. Personal cloud sync and project collaboration are separate, and a local save does not mean every member has received the update. See [how shared projects work](https://orkas.ai/blog/shared-projects/?source=gh-orkas-docs).
+
+To run work later, separately create and enable a one-time or recurring Automation, select its device and inspect the first result. Closing the window can leave Orkas running in the background; quitting the app, sleep or shutdown affects execution. Scheduled work and to-do auto-advancement are configured separately; producing a deliverable does not enable them.
+
+Compatible public browser apps can be published on an eligible plan, but cannot directly use desktop AI, local files or connectors. Check compatibility and [plan limits](https://orkas.ai/pricing/?source=gh-orkas-docs) before publication.
 
 ## Choose a specialist
 
@@ -79,7 +89,7 @@ The desktop source uses the [MIT license](https://github.com/Orkas-AI/Orkas). Re
 
 ## Published guides
 
-These Open, locked Issues are the maintained English guides. Each preserves the corresponding website article’s content and structure, followed by separate task examples, practical additions and relevant version notes.
+These Open, locked Issues are the maintained English guides. Each guide explains the workflow, relevant inputs, deliverables and limits, with a practical task you can adapt.
 
 ### Agent guides
 
@@ -100,27 +110,27 @@ These Open, locked Issues are the maintained English guides. Each preserves the 
 
 | Workflow | Published guide |
 | --- | --- |
-| AI Weekly Status Report from GitHub, Slack and Notion | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/21) |
-| AI App Builder — Build Interactive Apps from a Prompt | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/23) |
-| Document Assistant That Cites Every Answer | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/25) |
-| AI Content Creation — Article, Image and Video | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/27) |
-| AI Agent for Data Analysis — Analyze CSV, Excel & Sheets | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/29) |
-| AI Internal Tools — Designed, Built and Tested | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/31) |
-| AI Image Maker — Design, Generate & Edit Visuals | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/33) |
-| AI Video Maker & Editor — Captions, Voice, Motion | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/35) |
-| AI Report Generator for Excel, Word and PDF | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/37) |
-| AI Market Research — Cited Evidence, Not a Summary | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/39) |
-| AI Citation Tracking and SEO Audit — Cited, Not Just Mentioned | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/41) |
-| AI UI Design from a PRD or Screenshot — Editable HTML | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/43) |
-| E-commerce Store Review AI — Connect the Store, Get Actions | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/131) |
+| AI Weekly Team Operations — Updates, Decisions and Follow-up | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/21) |
+| Build and Publish a Customer Self-Service Web App with Orkas | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/23) |
+| Document Q&A with Citations, Versions and Escalation | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/25) |
+| Create a Consistent Marketing Pack — Copy, Images and Video | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/27) |
+| AI Data Analysis — Checked CSV, Excel and Sheets Results | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/29) |
+| Ship a Product Workflow — Design, Code and Acceptance Evidence | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/31) |
+| AI Image Production — Accurate Layouts, Generation and Edits | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/33) |
+| AI Video Editing — Footage, Edit Decisions and Reviewable Output | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/35) |
+| Monthly Business Review — Reconciled Workbook, Report and Slides | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/37) |
+| AI Market Research — Evidence for a Market-Entry Decision | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/39) |
+| SEO and AI Visibility — Citations, Evidence and Prioritized Fixes | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/41) |
+| AI UI Design — Editable Interfaces and Complete Product States | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/43) |
+| E-commerce Store Review — Weekly Priorities, Draft Replies and To-dos | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/131) |
 
 ### Comparison guides
 
 | Comparison topic | Published guide |
 | --- | --- |
-| Activepieces vs Orkas: one connects the apps, the other makes what the apps end up sending. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/45) |
-| AnythingLLM vs Orkas: one answers from your documents, the other builds something out of them. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/47) |
-| AutoGPT vs Orkas: an agent built to keep going on its own, or a team that keeps checking with you. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/49) |
+| Activepieces vs Orkas — Repeatable Flows and AI Deliverables | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/45) |
+| AnythingLLM vs Orkas — Document Answers and Reviewable Deliverables | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/47) |
+| AutoGPT vs Orkas — Autonomous Workflows and a Desktop AI Team | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/49) |
 | Bolt.new vs Orkas: an app builder in a browser tab, or an agent team on your machine. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/51) |
 | Orkas vs ChatGPT: your machine, or the cloud. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/53) |
 | Orkas vs Claude Code: an agent team, or a terminal. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/55) |
@@ -129,12 +139,12 @@ These Open, locked Issues are the maintained English guides. Each preserves the 
 | CrewAI vs Orkas: a framework you write code with, or an app you talk to. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/61) |
 | Orkas vs DeepSeek Harness: a finished desktop AI team, or a plugin-composed agent runtime. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/63) |
 | Devin vs Orkas: a hosted AI software engineer, or an open-source agent team on your machine. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/65) |
-| Dify vs Orkas: a platform for shipping AI to other people, or a desktop for getting your own work done. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/67) |
-| Flowise vs Orkas: a flow you assemble and host, or an app that already works when you open it. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/69) |
-| Goose vs Orkas: one general-purpose agent on your machine, or a team of specialists on it. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/71) |
-| Orkas vs Hermes Agent: a local-first desktop team, or an always-on server agent. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/73) |
+| Dify vs Orkas — AI Services, Desktop Work and Published Browser Apps | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/67) |
+| Flowise vs Orkas — Visual AI Flows and Conversation-Led Delivery | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/69) |
+| Goose vs Orkas — A Local Agent and a Specialist Desktop Team | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/71) |
+| Hermes Agent vs Orkas — Agent Runtime, Desktop Team and Scheduled Work | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/73) |
 | Orkas vs LangChain: use the app, or build with the framework. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/75) |
-| LibreChat vs Orkas: a chat window your team shares, or a desktop that hands back finished work. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/77) |
+| LibreChat vs Orkas — Shared Chat Deployment and Desktop Project Delivery | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/77) |
 | Lovable vs Orkas: one tool builds the product, the other does everything the product needs around it. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/79) |
 | n8n vs Orkas: data plumbing, or an agent team that produces the deliverable. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/81) |
 | Orkas vs OpenClaw: desktop AI workforce or self-hosted assistant. | [Read the comparison →](https://github.com/Orkas-AI/Orkas-Docs/issues/83) |
@@ -144,7 +154,7 @@ These Open, locked Issues are the maintained English guides. Each preserves the 
 | OpenMontage vs Orkas: assemble the pipeline yourself, or install one. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/117) |
 | Opus Clip vs Orkas: a hosted clipper, or a desktop studio you own. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/119) |
 | Remotion vs Orkas: write React for every frame, or describe the video you want. | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/121) |
-| Best local-first AI agent tools in 2026: what actually stays on your machine | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/143) |
+| Local-First AI Agent Tools — Check Files, Models and Shared Data | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/143) |
 | Best multi-agent AI desktop apps in 2026: a lead agent and a team of specialists | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/145) |
 | Claude Code alternatives in 2026: eight options, grouped by what you are replacing | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/147) |
 | Claude Code vs Codex vs OpenCode: what each one lets a host ask of it | [Read the guide →](https://github.com/Orkas-AI/Orkas-Docs/issues/149) |
