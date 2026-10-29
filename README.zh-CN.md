@@ -15,7 +15,7 @@
 
 <p align="center"><a href="./README.md">English</a> · <strong>简体中文</strong></p>
 
-<p align="center"><img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Orkas 中的研究、内容和办公成果示例"></p>
+https://github.com/user-attachments/assets/c41678f0-9f50-48be-aae0-fae95977cff9
 
 Orkas 是开源、本地优先的桌面 AI 工作区，面向独立开发者、一人公司和小型团队。描述目标后，Commander 可以处理任务、协调专业 Agent，并把报告、表格、演示文稿、代码、图片或视频交付到工作区供你检查和修改。
 

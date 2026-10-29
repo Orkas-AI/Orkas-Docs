@@ -15,7 +15,7 @@
 
 <p align="center"><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 
-<p align="center"><img src="https://orkas.ai/res/home-hero-capabilities-poster.jpg" width="100%" alt="Examples of research, content and office deliverables in Orkas"></p>
+https://github.com/user-attachments/assets/c41678f0-9f50-48be-aae0-fae95977cff9
 
 Orkas is an open-source, local-first desktop AI workspace for indie builders, one-person businesses and small teams. Describe your goal; Commander can handle the work, coordinate specialist agents and deliver reports, spreadsheets, presentations, code, images or videos for you to inspect and revise.
 
